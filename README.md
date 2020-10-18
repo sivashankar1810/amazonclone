@@ -1,4 +1,4 @@
-AMAZON-CLONE 
+# AMAZON-CLONE 
 
 -> Build front-end fully with React js
 
